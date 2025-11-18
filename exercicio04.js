@@ -19,3 +19,4 @@ else if( menida > 5 && medida< 7 ){
 else{
     console.log("reprovado")
 }
+````
