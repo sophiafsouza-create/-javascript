@@ -20,14 +20,13 @@
         break;
  }
 
- let login = prompt("digite seu usuário: ")
+//  let login = prompt("digite seu usuário: ")
 
- let login = prompt("Digite sua senha: ")
+//  let login = prompt("Digite sua senha: ")
 
- if (login == "admin" && senha == "Senha123") {
-    console.log("login bem sucedido!")
- }
-
- else{
-    console.log("Voce nao ter permissao a esse acesso!")
- }
+//  if (login == "admin" && senha == "Senha123") {
+//     console.log("login bem sucedido!")
+//  }
+//  else{
+//     console.log("Voce nao ter permissao a esse acesso!")
+//  }
