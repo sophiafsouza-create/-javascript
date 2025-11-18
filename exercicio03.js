@@ -7,3 +7,4 @@ if(numero % 2 == 0) {
     else{
         console.log("O numero é impar ")
     }
+    
