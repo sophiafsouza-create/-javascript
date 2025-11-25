@@ -1,13 +1,11 @@
- let Numero01 = Number.parseFloat(prompt("Digite seu primeiro nome"))
- let Number02 =  Number.parseFloat(prompt("Digite seu segundo nome"))
- let numero03 = Number. parseFloat(prompt("Digite seu terceiro nome"))
+let num = 0 
 
- if ( Numero01 < numero02 && Numero02 , numero03)
-    {console.log("A sequencia do numero esta em ordem crescente"), Numero01, numero02, numero03
+console.log("numero pares de 0 a 20;")
 
 
- }
-
- else{
-    console.log("A sequencia do numeronao esta em ordem crescente")
- }
+while (num <= 20 ) {
+    if (num%2 == 0) {
+        console.log(num)
+    }
+    num++
+}
