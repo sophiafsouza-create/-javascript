@@ -1,5 +1,9 @@
-body{
-background-color: aquamarine;
- color: blueviolet;
- font: normal 20pt Arial;
-}  
+.texto{
+    color: chartreuse;
+}
+
+
+ #formulario{
+      background-color: rgb(178, 0, 95);
+
+ }
